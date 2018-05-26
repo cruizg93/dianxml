@@ -1,0 +1,22 @@
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+
+.half{
+	width:45%;
+	padding-left: 1.5%;
+	padding-right:1.5%;
+	padding:0px;
+	display: inline-table;
+	border-width:1%;
+	border-style: solid;
+	border-color: gray;	
+}
+
+.half h1{
+	text-align: center;
+}
